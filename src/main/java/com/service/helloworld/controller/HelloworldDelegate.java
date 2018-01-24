@@ -9,6 +9,6 @@ public class HelloworldDelegate implements Helloworld {
     public String helloworld(String name){
 
         // Do Some Magic Here!
-        return "hi, " + name;
+        return "Hello, " + name;
     }
 }
